@@ -7,6 +7,7 @@ In this project you need the:
 1. Arduino nano
 1. Servo sg90
 1. Batteries 18650
+1. screws and pins
 
 After all the preparations, your spider can look like this(you can find more information in folder "Foto_video".
 
