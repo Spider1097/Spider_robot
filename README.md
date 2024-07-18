@@ -2,6 +2,8 @@
 Complete code and all the materials needed to create your own spider robot.
 
 https://www.printables.com/pl/model/735017/files
+http://www.zsp.radzyn.internetdsl.pl/userfiles/file/www_elektryczny/normy_oznaczenia/oznacz_liter.htm#:~:text=R%20-%20oznacza%20rodzaj%20elementu%20w,wybrać%20zgodnie%20z%20Tabelą%202.
+https://iautomatyka.pl/barwy-w-automatyce/
 
 In this project you need the:
 1. HC-06
